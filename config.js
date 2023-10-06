@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Ado Saziyah -'
+global.botname = 'Ado Saziyaha -'
 global.premium = 'true'
 global.packname = 'Sazi┃ᴮᴼᵀ' 
 global.author = '@Neshu' 
